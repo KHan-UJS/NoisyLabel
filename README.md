@@ -5,7 +5,7 @@ The experimental datasets include:
 1) Pancreas-NIH Dataset(https://www.cancerimagingarchive.net/collection/pancreas-ct/)
 2) GWS Dataset (in house dataset),
 3) MSD Dataset (https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2)
-4) LiMT Dataset (The LiMT dataset is awaiting authorization and will be released publicly).
+4) LiMT Dataset (https://drive.google.com/drive/folders/1l9HRK13uaOQTNShf5pwgSz3OTanWjkag).
 
 
 
